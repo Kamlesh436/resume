@@ -1,0 +1,20 @@
+hr{
+    /* background-color: white; */
+    border-style:none;
+    /* height:2px; */
+    width: 8%;
+    border-top:dotted rgb(102, 100, 100);
+    border-top-width: 5px;
+}
+
+body{
+    background-color:powderblue;
+}
+
+h1{
+    color:#188282;
+}
+
+h3{
+    color:#129a9a;
+}
